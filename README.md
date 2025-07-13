@@ -35,16 +35,16 @@ CyberSpace is a comprehensive cybersecurity knowledge hub designed for tech prof
 
 ### 📚 Knowledge Categories
 
-| Category              | Description                                                                                      | Entries |
-|---------------------- |------------------------------------------------------------------------------------------------|---------|
-| Security Terminologies| 1000+ cybersecurity terms with detailed explanations, examples, and real-world cases             | 1000+   |
-| Best Practices        | Industry-standard security practices with implementation guides                                   | 500+    |
-| Security Tools        | Extensive collection of cybersecurity tools with features and use cases                          | 1000+   |
-| Network Protocols     | Detailed guide to network protocols, standards, and implementation                              | 500+    |
-| Security Checklists   | Practical checklists for various security scenarios and compliance                              | 300+    |
-| Hardware Security     | Information about security hardware, devices, and physical security                             | 400+    |
-| Career Roles          | Comprehensive guide to cybersecurity career paths, skills, and salaries                         | 200+    |
-| Security Tips         | Daily security tips and best practices for personal and organizational security                 | 1000+   |
+| Category              | Description                                                                                      |
+|----------------------|------------------------------------------------------------------------------------------------|
+| Security Terminologies| Cybersecurity terms with detailed explanations, examples, and real-world cases                  |
+| Best Practices        | Industry-standard security practices with implementation guides                                   |
+| Security Tools        | Extensive collection of cybersecurity tools with features and use cases                          |
+| Network Protocols     | Detailed guide to network protocols, standards, and implementation                              |
+| Security Checklists   | Practical checklists for various security scenarios and compliance                              |
+| Hardware Security     | Information about security hardware, devices, and physical security                             |
+| Career Roles          | Comprehensive guide to cybersecurity career paths, skills, and salaries                         |
+| Security Tips         | Daily security tips and best practices for personal and organizational security                 |
 
 ### 🤖 AI-Powered Features
 
