@@ -82,6 +82,10 @@ CyberSpace is a comprehensive cybersecurity knowledge hub designed for tech prof
 
 ## 📸 Screenshots
 
+### Technical Architecture Diagram
+![Technical Architecture](snapshots/CyberSpace%20-%20Technical%20Architecture%20Diagram.png)
+*End-to-end architecture of the CyberSpace application, showing user flow, API, AI, search, data, and output layers.*
+
 ### 1. Hero Section
 ![Hero Section](snapshots/1.Hero_Section.png)
 *Welcome to CyberSpace - Your comprehensive cybersecurity knowledge hub*
