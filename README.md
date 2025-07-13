@@ -86,7 +86,7 @@ CyberSpace is a comprehensive cybersecurity knowledge hub designed for tech prof
 ![Hero Section](snapshots/1.Hero_Section.png)
 *Welcome to CyberSpace - Your comprehensive cybersecurity knowledge hub*
 
-### 2. Main Dashboard
+### 2. Index Full Page
 ![Main Dashboard](snapshots/2.Main%20page.png)
 *Main dashboard with search functionality and category overview*
 
