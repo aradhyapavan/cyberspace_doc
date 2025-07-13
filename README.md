@@ -90,6 +90,10 @@ CyberSpace is a comprehensive cybersecurity knowledge hub designed for tech prof
 ![Main Dashboard](snapshots/2.Main%20page.png)
 *Main dashboard with search functionality and category overview*
 
+### 2.1 Documentation Page
+![Documentation Page](snapshots/2.1.Documentation.png)
+*Detailed documentation and guidance for using CyberSpace features and understanding cybersecurity topics*
+
 ### 3. Security Terminologies
 ![Terminologies](snapshots/3.Terminologies_Page.png)
 *Comprehensive cybersecurity terms and definitions with search and filtering*
